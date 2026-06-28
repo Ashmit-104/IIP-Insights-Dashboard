@@ -1,4 +1,4 @@
-# 📊 IIP Insight – Industrial Production Forecasting Dashboard
+# IIP Insight – Industrial Production Forecasting Dashboard
 
 An end-to-end analytics project that analyzes India's **Index of Industrial Production (IIP)** using **time-series forecasting** and **AI-generated economic insights**.
 
@@ -6,19 +6,19 @@ The project combines **Facebook Prophet** for forecasting, **Meta Llama 3** for 
 
 ---
 
-## 🌐 Live Demo
+## Live Demo
 
 **Application:** https://your-netlify-url.netlify.app
 
 ---
 
-# 📖 Overview
+# Overview
 
 Industrial production data contains long-term trends that are difficult to interpret manually. This project processes historical IIP data, forecasts future industrial production using machine learning, and generates AI-powered summaries to present the results through an interactive dashboard.
 
 ---
 
-# ❓ Problem Statement
+#  Problem Statement
 
 Understanding industrial production trends requires analyzing large volumes of historical data. While forecasting models can predict future values, interpreting those predictions often requires technical expertise.
 
@@ -26,18 +26,18 @@ This project simplifies the process by combining machine learning-based forecast
 
 ---
 
-# ✨ Key Features
+#  Key Features
 
-- 📈 Analyze historical IIP trends across **10 industrial sectors**
-- 🔮 Forecast future industrial production using **Facebook Prophet**
-- 🤖 Generate AI-powered economic summaries using **Meta Llama 3**
-- 📊 Interactive dashboard with historical trends, forecasts, and growth metrics
-- 📦 Automated data preprocessing and JSON-based data pipeline
-- 🌐 Publicly deployed as a web application
+-  Analyze historical IIP trends across **10 industrial sectors**
+-  Forecast future industrial production using **Facebook Prophet**
+-  Generate AI-powered economic summaries using **Meta Llama 3**
+-  Interactive dashboard with historical trends, forecasts, and growth metrics
+-  Automated data preprocessing and JSON-based data pipeline
+-  Publicly deployed as a web application
 
 ---
 
-# 🛠 Tech Stack
+#  Tech Stack
 
 - **Frontend:** HTML, CSS, JavaScript
 - **Backend:** Python, Pandas, NumPy
@@ -47,7 +47,7 @@ This project simplifies the process by combining machine learning-based forecast
 
 ---
 
-# 💡 Technical Highlights
+#  Technical Highlights
 
 - Built an end-to-end forecasting pipeline from raw industrial data to an interactive analytics dashboard.
 - Processed and transformed historical IIP datasets using Pandas and NumPy.
@@ -57,7 +57,7 @@ This project simplifies the process by combining machine learning-based forecast
 
 ---
 
-# 🚀 Future Improvements
+#  Future Improvements
 
 - Support custom dataset uploads.
 - Compare multiple forecasting models (ARIMA, XGBoost, LSTM).
@@ -67,7 +67,7 @@ This project simplifies the process by combining machine learning-based forecast
 
 ---
 
-# 📸 Screenshots
+#  Screenshots
 
 ## Dashboard
 
@@ -81,7 +81,7 @@ This project simplifies the process by combining machine learning-based forecast
 
 ---
 
-# 👨‍💻 Author
+#  Author
 
 **Ashmit Garg**
 
