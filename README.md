@@ -29,7 +29,7 @@ This project simplifies the process by combining machine learning-based forecast
 #  Key Features
 
 -  Analyze historical IIP trends across **10 industrial sectors**
--  Forecast future industrial production using **Facebook Prophet**
+-  Forecast future industrial production using ** Prophet**
 -  Generate AI-powered economic summaries using **Meta Llama 3**
 -  Interactive dashboard with historical trends, forecasts, and growth metrics
 -  Automated data preprocessing and JSON-based data pipeline
@@ -41,7 +41,7 @@ This project simplifies the process by combining machine learning-based forecast
 
 - **Frontend:** HTML, CSS, JavaScript
 - **Backend:** Python, Pandas, NumPy
-- **Machine Learning:** Facebook Prophet
+- **Machine Learning:** Prophet
 - **AI Integration:** Meta Llama 3 (Together AI API)
 - **Deployment:** Netlify
 
