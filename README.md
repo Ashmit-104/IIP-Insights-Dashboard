@@ -1,4 +1,4 @@
-# IIP Insight – Industrial Production Forecasting Dashboard
+# IIP Insights – Industrial Production Forecasting Dashboard
 
 An end-to-end analytics project that analyzes India's **Index of Industrial Production (IIP)** using **time-series forecasting** and **AI-generated economic insights**.
 
