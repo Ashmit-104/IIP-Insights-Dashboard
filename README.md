@@ -8,7 +8,7 @@ The project combines **Facebook Prophet** for forecasting, **Meta Llama 3** for 
 
 ## Live Demo
 
-**Application:** https://your-netlify-url.netlify.app
+**Application:** https://iip-forecast-dashboard.netlify.app/
 
 ---
 
